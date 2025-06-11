@@ -380,7 +380,7 @@
                     <span
                       v-for="tool in challenge.tools"
                       :key="tool"
-                      class="px-3 py-1 bg-gray-100 text-gray-700 rounded-full text-sm mono"
+                      class="px-3 py-1 bg-gray-100 text-pink-400 rounded-full text-sm mono"
                     >
                       {{ tool }}
                     </span>
